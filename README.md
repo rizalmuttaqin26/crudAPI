@@ -1,7 +1,7 @@
 # Web Service Pertama
 
 RESTful API for selling ...
-By Amin Sholeh
+By Amin Sholeh dan Rizal Muttaqin
 
 ## Endpoints
 
